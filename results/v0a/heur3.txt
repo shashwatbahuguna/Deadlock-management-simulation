@@ -1,0 +1,898 @@
+THREAD 7 COMPLETED
+THREAD 5 COMPLETED
+THREAD 1 COMPLETED
+THREAD 1 COMPLETED
+THREAD 10 COMPLETED
+THREAD 2 COMPLETED
+THREAD 5 COMPLETED
+THREAD 1 COMPLETED
+THREAD 6 COMPLETED
+THREAD 3 COMPLETED
+THREAD 10 COMPLETED
+THREAD 3 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 18.000197, Num Iterations: 9.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 2
+THREAD 1 COMPLETED
+THREAD 2 COMPLETED
+THREAD 3 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999957, Num Iterations: 1.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 2 COMPLETED
+THREAD 6 COMPLETED
+THREAD 2 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999883, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 9 COMPLETED
+THREAD 10 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999778, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 6 COMPLETED
+THREAD 2 COMPLETED
+THREAD 3 COMPLETED
+THREAD 8 COMPLETED
+THREAD 8 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 9.999875, Num Iterations: 4.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 9 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000031, Num Iterations: 0.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 1 COMPLETED
+THREAD 8 COMPLETED
+THREAD 2 COMPLETED
+THREAD 3 COMPLETED
+THREAD 3 COMPLETED
+THREAD 10 COMPLETED
+THREAD 7 COMPLETED
+THREAD 2 COMPLETED
+THREAD 9 COMPLETED
+THREAD 3 COMPLETED
+THREAD 7 COMPLETED
+THREAD 2 COMPLETED
+THREAD 10 COMPLETED
+THREAD 9 COMPLETED
+THREAD 6 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 23.999628, Num Iterations: 11.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 4 COMPLETED
+THREAD 4 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 5.999869, Num Iterations: 2.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 4 COMPLETED
+THREAD 10 COMPLETED
+THREAD 9 COMPLETED
+THREAD 3 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999885, Num Iterations: 1.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 9 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 1.999946, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 1 COMPLETED
+THREAD 5 COMPLETED
+THREAD 1 COMPLETED
+THREAD 7 COMPLETED
+THREAD 6 COMPLETED
+THREAD 8 COMPLETED
+THREAD 8 COMPLETED
+THREAD 4 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 11.999936, Num Iterations: 5.
+Threads In Deadlock (Count: 7): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 6 COMPLETED
+THREAD 2 COMPLETED
+THREAD 7 COMPLETED
+THREAD 6 COMPLETED
+THREAD 10 COMPLETED
+THREAD 1 COMPLETED
+THREAD 10 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 9.999951, Num Iterations: 4.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000027, Num Iterations: 0.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 8 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000035, Num Iterations: 0.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 1 COMPLETED
+THREAD 3 COMPLETED
+THREAD 6 COMPLETED
+THREAD 7 COMPLETED
+THREAD 2 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 9.999963, Num Iterations: 4.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 10 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000020, Num Iterations: 0.
+Threads In Deadlock (Count: 8): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 3
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 8 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999981, Num Iterations: 1.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 3 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000040, Num Iterations: 0.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+THREAD 6 COMPLETED
+Count Closed Threads: 0
+THREAD 6 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 1.999979, Num Iterations: 0.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 8 COMPLETED
+THREAD 1 COMPLETED
+THREAD 3 COMPLETED
+THREAD 10 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 7.999698, Num Iterations: 3.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 4
+THREAD 2 COMPLETED
+THREAD 7 COMPLETED
+THREAD 10 COMPLETED
+THREAD 4 COMPLETED
+THREAD 6 COMPLETED
+THREAD 7 COMPLETED
+THREAD 2 COMPLETED
+THREAD 5 COMPLETED
+THREAD 6 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 16.000126, Num Iterations: 7.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 6 COMPLETED
+THREAD 5 COMPLETED
+THREAD 2 COMPLETED
+THREAD 3 COMPLETED
+THREAD 10 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 6.000056, Num Iterations: 2.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 6 COMPLETED
+THREAD 2 COMPLETED
+THREAD 3 COMPLETED
+THREAD 3 COMPLETED
+THREAD 2 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 10.000030, Num Iterations: 4.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000020, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 6 COMPLETED
+THREAD 6 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999953, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 10 COMPLETED
+THREAD 7 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 5.999926, Num Iterations: 2.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000047, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000016, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000021, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 7 COMPLETED
+THREAD 5 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 4.000009, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 3 COMPLETED
+THREAD 5 COMPLETED
+THREAD 7 COMPLETED
+THREAD 1 COMPLETED
+THREAD 9 COMPLETED
+THREAD 3 COMPLETED
+THREAD 5 COMPLETED
+THREAD 6 COMPLETED
+THREAD 7 COMPLETED
+THREAD 6 COMPLETED
+THREAD 7 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 9.999763, Num Iterations: 4.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 1 COMPLETED
+THREAD 9 COMPLETED
+THREAD 7 COMPLETED
+THREAD 7 COMPLETED
+THREAD 3 COMPLETED
+THREAD 5 COMPLETED
+THREAD 8 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 18.000092, Num Iterations: 8.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 4 COMPLETED
+THREAD 4 COMPLETED
+THREAD 2 COMPLETED
+THREAD 1 COMPLETED
+THREAD 2 COMPLETED
+THREAD 3 COMPLETED
+THREAD 7 COMPLETED
+THREAD 4 COMPLETED
+THREAD 10 COMPLETED
+THREAD 9 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 9.999916, Num Iterations: 4.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 2 COMPLETED
+THREAD 4 COMPLETED
+THREAD 1 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 6.000076, Num Iterations: 2.
+Threads In Deadlock (Count: 8): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 4
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 6 COMPLETED
+THREAD 4 COMPLETED
+THREAD 6 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 6.000038, Num Iterations: 2.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 7 COMPLETED
+THREAD 4 COMPLETED
+THREAD 4 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999960, Num Iterations: 1.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 4 COMPLETED
+THREAD 10 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999962, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 1.999909, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 5 COMPLETED
+THREAD 1 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999900, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 8 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999862, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 9 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999845, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000033, Num Iterations: 0.
+Threads In Deadlock (Count: 9): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 7 COMPLETED
+THREAD 4 COMPLETED
+THREAD 10 COMPLETED
+THREAD 2 COMPLETED
+THREAD 9 COMPLETED
+THREAD 2 COMPLETED
+THREAD 10 COMPLETED
+THREAD 8 COMPLETED
+THREAD 7 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 12.000179, Num Iterations: 5.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 2.000003, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 7 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 3.999922, Num Iterations: 1.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 1
+THREAD 9 COMPLETED
+THREAD 4 COMPLETED
+THREAD 7 COMPLETED
+THREAD 4 COMPLETED
+THREAD 9 COMPLETED
+THREAD 4 COMPLETED
+THREAD 9 COMPLETED
+THREAD 10 COMPLETED
+THREAD 8 COMPLETED
+THREAD 8 COMPLETED
+
+Deadlock Found!
+Time Since Previous Deadlock: 16.000227, Num Iterations: 7.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+
+Deadlock Found!
+Time Since Previous Deadlock: 1.999908, Num Iterations: 0.
+Threads In Deadlock (Count: 10): 
+        Thread ID: 0
+        Thread ID: 1
+        Thread ID: 2
+        Thread ID: 3
+        Thread ID: 4
+        Thread ID: 5
+        Thread ID: 6
+        Thread ID: 7
+        Thread ID: 8
+        Thread ID: 9
+
+Count Closed Threads: 0
+THREAD 10 COMPLETED
+THREAD 9 COMPLETED
