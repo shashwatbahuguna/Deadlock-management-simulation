@@ -1,6 +1,6 @@
 # Multiple Threads Deadlock Handling Simulation
 
-Thread to simulate deadlock and handle accoring to different heuristics.
+Simuting and managing deadlocks in a multithreaded system using sudo resources and tasks, using and comparing different heuristics.
 
 ## Compilation and Running:
 
