@@ -60,6 +60,7 @@ The outputs from the three heuristics (for 5 mins) are stored in the results dir
 These are then compiled by the collect_data.py file using the printed statements at various sections in the code. The results are as follows:
 
 VERSION 0:
+
 	HEURISTIC ID: 1
 	Completed Threads: 172
 	Average Time Between Deadlocks: 6.622161066666665
@@ -73,6 +74,7 @@ VERSION 0:
 	Average Time Between Deadlocks: 6.29783995744681
 
 VERSION 1:
+
 	HEURISTIC ID: 1
 	Completed Threads: 201
 	Average Time Between Deadlocks: 8.116767916666667
